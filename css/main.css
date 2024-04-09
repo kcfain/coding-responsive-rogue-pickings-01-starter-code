@@ -12,7 +12,7 @@ body {
 /* The width property has been changed to max-width */
 .content-wrapper {
 	max-width: 1200px;
-	width: 90%
+	width: 90%;
 	display: flex;
 	justify-content: center;
 	flex-flow: row wrap;
